@@ -1,0 +1,24 @@
+.cont {
+    width: 1200px;
+    margin: 20px auto;
+}
+.js {
+    border: 1px solid black;
+}
+.js p {
+    margin-left: 20px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.js p:first-child {
+    margin-top: 10px;
+}
+
+.js p:last-child {
+    margin-bottom: 10px;
+}
+
+button {
+    margin-top: 20px;
+    margin-left: auto; 
+}
